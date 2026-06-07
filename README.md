@@ -1,4 +1,4 @@
-# SC-DETR-A-Framework-for-SAR-Aircraft-Detection
+# SC-DETR
 ## 📅 Project Status & Roadmap
 
 This repository is currently under active construction. The full source code, datasets, and pre-trained models will be made publicly available **immediately upon the official acceptance of our paper**.
